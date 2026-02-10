@@ -142,8 +142,6 @@ labs/
 └─ EA8/ # PS/2 keyboard protocol
 ```
 
----
-
 Each folder contains:
 - schematic files or VHDL source code,
 - simulation results,
