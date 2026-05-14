@@ -147,7 +147,7 @@ which corresponds to:
 
 ---
 
-#Timing and Synthesis
+# Τiming and Synthesis
 
 Timing analysis was performed using Vivado.
 
